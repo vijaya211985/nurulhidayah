@@ -1,0 +1,92 @@
+[     UTC     ] Logs for nurulhidayah1983-testing-grouphh-mobileprediction0-8bx5rk.streamlitapp.com/
+────────────────────────────────────────────────────────────────────────────────────────
+"[14:56:50] 🚀 Starting up repository: 'testing', branch: 'main', main module: 'GroupHH_MobilePrediction0.py'"
+[14:56:50] 🐙 Cloning repository...
+[14:56:51] 🐙 Cloning into '/app/testing'...
+
+[14:56:51] 🐙 Cloned repository!
+[14:56:51] 🐙 Pulling code changes from Github...
+[14:56:53] 📦 Processing dependencies...
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Collecting altair
+  Downloading altair-4.2.0-py3-none-any.whl (812 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 812.8/812.8 KB 25.2 MB/s eta 0:00:00[2022-10-18 14:56:53.742156] 
+Collecting pandas
+  Downloading pandas-1.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.2/12.2 MB 185.4 MB/s eta 0:00:00[2022-10-18 14:56:54.149195] 
+Collecting streamlit
+  Downloading streamlit-1.13.0-py2.py3-none-any.whl (9.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.2/9.2 MB 235.3 MB/s eta 0:00:00[2022-10-18 14:56:54.316933] 
+Collecting numpy
+  Downloading numpy-1.23.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 17.1/17.1 MB 256.2 MB/s eta 0:00:00[2022-10-18 14:56:54.802106] 
+Collecting sklearn
+  Downloading sklearn-0.0.tar.gz (1.1 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting matplotlib
+  Downloading matplotlib-3.6.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (11.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.8/11.8 MB 260.3 MB/s eta 0:00:00[2022-10-18 14:56:55.628455] 
+Collecting seaborn
+  Downloading seaborn-0.12.1-py3-none-any.whl (288 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 288.2/288.2 KB 243.6 MB/s eta 0:00:00[2022-10-18 14:56:55.683549] 
+ERROR: Could not find a version that satisfies the requirement figsize (from versions: none)
+ERROR: No matching distribution found for figsize
+"WARNING: You are using pip version 22.0.3; however, version 22.3 is available."
+You should consider upgrading via the '/home/appuser/venv/bin/python -m pip install --upgrade pip' command.
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[14:56:56] ❗️ installer returned a non-zero exit code
+"[14:56:56] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app."
+[14:58:30] ❗️ Streamlit server consistently failed status checks
+"[14:58:30] ❗️ Please fix the errors, push an update to the git repo, or reboot the app."
+[16:24:25] 🐙 Pulling code changes from Github...
+[16:24:27] 📦 Processing dependencies...
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Collecting altair
+  Downloading altair-4.2.0-py3-none-any.whl (812 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 812.8/812.8 KB 24.1 MB/s eta 0:00:00[2022-10-18 16:24:27.924172] 
+Collecting pandas
+  Downloading pandas-1.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.2/12.2 MB 227.4 MB/s eta 0:00:00[2022-10-18 16:24:28.218337] 
+Collecting streamlit
+  Downloading streamlit-1.13.0-py2.py3-none-any.whl (9.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.2/9.2 MB 236.3 MB/s eta 0:00:00[2022-10-18 16:24:28.384150] 
+Collecting numpy
+  Downloading numpy-1.23.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 17.1/17.1 MB 216.6 MB/s eta 0:00:00[2022-10-18 16:24:28.888203] 
+Collecting sklearn
+  Downloading sklearn-0.0.tar.gz (1.1 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting matplotlib
+  Downloading matplotlib-3.6.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (11.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.8/11.8 MB 259.0 MB/s eta 0:00:00[2022-10-18 16:24:29.443006] 
+Collecting seaborn
+  Downloading seaborn-0.12.1-py3-none-any.whl (288 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 288.2/288.2 KB 205.9 MB/s eta 0:00:00[2022-10-18 16:24:29.517274] 
+ERROR: Could not find a version that satisfies the requirement figsize (from versions: none)
+ERROR: No matching distribution found for figsize
+"WARNING: You are using pip version 22.0.3; however, version 22.3 is available."
+You should consider upgrading via the '/home/appuser/venv/bin/python -m pip install --upgrade pip' command.
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[16:24:30] ❗️ installer returned a non-zero exit code
+[16:27:26] 🐙 Pulling code changes from Github...
+[16:27:27] ❗️ The main module file does not exist: /app/testing/GroupHH_MobilePrediction0.py
+[16:27:35] 🐙 Pulling code changes from Github...
+[16:27:37] ❗️ The main module file does not exist: /app/testing/GroupHH_MobilePrediction0.py
+[16:27:48] 🐙 Pulling code changes from Github...
+[16:27:49] ❗️ The main module file does not exist: /app/testing/GroupHH_MobilePrediction0.py
+[16:28:09] 🐙 Pulling code changes from Github...
+[16:28:10] ❗️ The main module file does not exist: /app/testing/GroupHH_MobilePrediction0.py
+[16:28:44] 🐙 Pulling code changes from Github...
+[16:28:45] ❗️ The main module file does not exist: /app/testing/GroupHH_MobilePrediction0.py
